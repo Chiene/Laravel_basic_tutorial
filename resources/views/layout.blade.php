@@ -15,7 +15,7 @@
                 <h1>Laravel 5 Tutorial</h1>
                 <hr>
             </div>
-            @yield("contents");
+            @yield("contents")
         </div>
     </body>
 </html>
