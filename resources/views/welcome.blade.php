@@ -1,44 +1,29 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Laravel</title>
+<head>
+    <title>Laravel Basic Tutorial</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
 
-        <link href="//fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
-
-        <style>
-            html, body {
-                height: 100%;
-            }
-
-            body {
-                margin: 0;
-                padding: 0;
-                width: 100%;
-                display: table;
-                font-weight: 100;
-                font-family: 'Lato';
-            }
-
-            .container {
-                text-align: center;
-                display: table-cell;
-                vertical-align: middle;
-            }
-
-            .content {
-                text-align: center;
-                display: inline-block;
-            }
-
-            .title {
-                font-size: 96px;
-            }
-        </style>
-    </head>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</head>
     <body>
         <div class="container">
-            <div class="content">
-                <div class="title">Laravel 5</div>
+            <div class="row">
+                <h1>Laravel 5 Tutorial</h1>
+                <hr>
+            </div>
+             <div class="row">
+                <h3>Outline</h3>
+                <ul>
+                    <li><h4>Routes</h4></li>
+                    <li><h4>Create a messageboard page and resource controller</h4></li>
+                    <li><h4>Create a database table with migration</h4></li>
+                    <li><h4>Leave a message</h4></li>
+                </ul>
+                
             </div>
         </div>
     </body>
