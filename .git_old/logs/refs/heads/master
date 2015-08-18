@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 630eed4899be61f84de06c4bce64b85f65a8bde7 Jia-ching Jian <sagiters1128@gmail.com> 1439306169 +0800	commit (initial): Laravel Initial
+630eed4899be61f84de06c4bce64b85f65a8bde7 c1007c516397f881b32ad824816827bf15b8b4ce Jia-ching Jian <sagiters1128@gmail.com> 1439353656 +0800	commit: Add outline
+c1007c516397f881b32ad824816827bf15b8b4ce fc251412c2d92a761dfd13637dda8d0db4ceb437 Jia-ching Jian <sagiters1128@gmail.com> 1439354022 +0800	commit: add blade template
+fc251412c2d92a761dfd13637dda8d0db4ceb437 d9bb13e9b94978d3fd72cf53bc04e182ac803c11 Jia-ching Jian <sagiters1128@gmail.com> 1439354440 +0800	merge Feature1-Routes: Fast-forward
+d9bb13e9b94978d3fd72cf53bc04e182ac803c11 3e0b8ca024c7d3c3f7de703aa7c7117f20fde622 Jia-ching Jian <sagiters1128@gmail.com> 1439354905 +0800	merge Feature-Blade: Fast-forward
+3e0b8ca024c7d3c3f7de703aa7c7117f20fde622 d7c50e8776c9f255e342785bc53ec0f4ef80a852 Jia-ching Jian <sagiters1128@gmail.com> 1439355131 +0800	commit: add Outline
+d7c50e8776c9f255e342785bc53ec0f4ef80a852 f8c75f48074b5a3be94c5d39932c9c7df4ff3172 Jia-ching Jian <sagiters1128@gmail.com> 1439355881 +0800	merge Feature-MVC: Fast-forward
